@@ -9,7 +9,7 @@ I also enjoy wireframing, writing clean efficient code without redundancies, and
 You can also check my [LinkedIn](linkedin.com/chinda-amadi)
 
 ## Skills and Experience:
-- (https://github.com/mansachinda/mansachinda/blob/main/download%20(2).png) Python
+- ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(2).png) Python
 - 🔐 Database Administration
 - 🌏 Javascript
 
