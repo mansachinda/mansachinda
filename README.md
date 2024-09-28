@@ -10,10 +10,14 @@
 ## Skills and Experience:
 - ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(2).png)
 - **Python**
-- ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(3).png) **Javascript**
-- ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(4).png) **Django**
-- ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(5).png) **MYSQL**
-- ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(6).png) **Database Administration**
+- ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(3).png)
+- Javascript
+- ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(4).png)
+- Django
+- ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(5).png)
+- MYSQL
+- ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(6).png)
+- Database_Administration
 
 Resume:
 
