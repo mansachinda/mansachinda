@@ -2,7 +2,7 @@
 
 #### Software Engineer | Backend Development
 
-![Software Engineer | Backend Development](https://scontent.fiba1-2.fna.fbcdn.net/v/t39.30808-6/368333561_3848192098741026_7276449154795053148_n.png?stp=dst-png_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEFyGh2r9qx2SiST8Yq5ej9JJAsuvB5mZEkkCy68HmZkY-qDwNG6SWhEi1GkL0gjVD78QtR6LFpDYS6cO26GNHb&_nc_ohc=rS7vc9qkqA0Q7kNvgGMWH71&_nc_zt=23&_nc_ht=scontent.fiba1-2.fna&oh=00_AYAcOXxICc-vx4QsFT22lrPXvsFQmdbfRiwOiKFd1iNHgg&oe=66FE14F2)
+![Software Engineer | Backend Development](https://github.com/mansachinda/mansachinda/blob/main/ALXSaaS.png)
 
 I'm Chinda from Afrika.
 I am a Software Engineer specialized in Backend-Development.
