@@ -3,14 +3,12 @@
 # Greetings everyone 👋, Chinda Amadi here.
 
 ### I'm Chinda from Afrika.
-I am a **Software Engineer** specialized in **Backend-Development.**
-I love my line of work and also enjoy learning and working with languages and frameworks like Python, JavaScript, Django, Flask, as as well work in Database Administration using MYSQL, PostgreSQL.
-I also enjoy wireframing, writing clean efficient code without redundancies, and constant self development.
-You can also check my [LinkedIn](linkedin.com/chinda-amadi)
+### I am a **Software Engineer** specialized in **Backend-Development.**
+### I love my line of work and also enjoy learning and working with languages and frameworks like Python, JavaScript, Django, Flask, as as well work in Database Administration using MYSQL, PostgreSQL.
+### I also enjoy wireframing, writing clean efficient code without redundancies, and constant self-development.
 
 ## Skills and Experience:
-- ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(2).png)
-  **Python**
+- ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(2).png)   **Python**
 - ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(3).png) **Javascript**
 - ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(4).png) **Django**
 - ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(5).png) **MYSQL**
