@@ -1,16 +1,20 @@
-### Greetings everyone 👋, Chinda Amadi
-
-#### Software Engineer | Backend Development
-
 ![Software Engineer | Backend Development](https://github.com/mansachinda/mansachinda/blob/main/ALXSaaS.png)
 
+# Greetings everyone 👋, Chinda Amadi here.
+
 I'm Chinda from Afrika.
-I am a Software Engineer specialized in Backend-Development.
+I am a **Software Engineer** specialized in **Backend-Development.**
 I love my line of work and also enjoy learning and working with languages and frameworks like Python, JavaScript, Django, Flask, as as well work in Database Administration using MYSQL, PostgreSQL.
 I also enjoy wireframing, writing clean efficient code without redundancies, and constant self development.
 You can also check my [LinkedIn](linkedin.com/chinda-amadi)
 
-Skills: PYTHON / JAVASCRIPT / DJANGO / MYSQL / POSTGRESQL
+## Skills and Experience:
+- 🖥 Python
+- 🔐 Database Administration
+- 🌏 Javascript
+
+
+PYTHON / JAVASCRIPT / DJANGO / MYSQL / POSTGRESQL
 
 - 🔭 I’m currently working on Database Administration 
 
