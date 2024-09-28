@@ -8,18 +8,13 @@
 ### I also enjoy wireframing, writing clean efficient code without redundancies, and constant self-development.
 
 ## Skills and Experience:
-- ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(2).png)
-- **Python**
-- ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(3).png)
-- Javascript
-- ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(4).png)
-- Django
-- ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(5).png)
-- MYSQL
-- ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(6).png)
-- Database_Administration
+- ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(2).png)    **Python**
+- ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(3).png)    **Javascript**
+- ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(4).png)    **Django**
+- ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(5).png)    **MYSQL**
+- ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(6).png)    **Database_Administration**
 
-Resume:
+## Resume:
 
 
 ### [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mansachinda)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chinda-amadi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Mansachi)  
