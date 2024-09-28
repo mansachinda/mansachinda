@@ -2,7 +2,7 @@
 
 # Greetings everyone 👋, Chinda Amadi here.
 
-### I'm Chinda from Afrika.
+### I'm Chinda from Afrika. ###
 ### I am a **Software Engineer** specialized in **Backend-Development.**
 ### I love my line of work and also enjoy learning and working with languages and frameworks like Python, JavaScript, Django, Flask, as as well work in Database Administration using MYSQL, PostgreSQL.
 ### I also enjoy wireframing, writing clean efficient code without redundancies, and constant self-development.
