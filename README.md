@@ -8,7 +8,8 @@
 ### I also enjoy wireframing, writing clean efficient code without redundancies, and constant self-development.
 
 ## Skills and Experience:
-- ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(2).png)   **Python**
+- ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(2).png)
+- **Python**
 - ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(3).png) **Javascript**
 - ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(4).png) **Django**
 - ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(5).png) **MYSQL**
